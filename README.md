@@ -5,6 +5,16 @@ The app helps users store, manage, and generate strong passwords with enhanced s
 
 ---
 
+## 📱 Sample APK
+
+A sample build of the app is available for quick testing:
+
+🔗 **[Download APK](secure_password_app.apk)**
+
+> You can install this APK on your Android device to try out the app without building it yourself.
+
+---
+
 ## Table of Contents
 
 - [Setup Instructions](#setup-instructions)  
