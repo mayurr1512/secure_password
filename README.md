@@ -5,6 +5,14 @@ The app helps users store, manage, and generate strong passwords with enhanced s
 
 ---
 
+<img src="https://github.com/user-attachments/assets/04ebbc36-1ea0-4186-8cd2-50d1334e8f3f" width="180"/>
+<img src="https://github.com/user-attachments/assets/bda70eba-4110-46af-b306-841ad73726b9" width="180"/>
+<img src="https://github.com/user-attachments/assets/1ce32b82-6cc4-4caf-a4da-5093c25c4088" width="180"/>
+<img src="https://github.com/user-attachments/assets/58c5dc9d-0c63-4895-a303-2b19a652370c" width="180"/>
+<img src="https://github.com/user-attachments/assets/8f5d4914-de02-4f92-934e-5ab016c1fc1c" width="180"/>
+
+---
+
 ## 📱 Sample APK
 
 A sample build of the app is available for quick testing:
