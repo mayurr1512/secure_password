@@ -62,6 +62,7 @@ class _AuthScreenState extends State<AuthScreen> {
     if (_enteredPin.length == 4) {
       if (_isCreatingPin) {
         await _pinRepo.savePin(_enteredPin);
+        if (!mounted) return;
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text("PIN Created")),
         );
@@ -70,6 +71,7 @@ class _AuthScreenState extends State<AuthScreen> {
         if (await _pinRepo.validatePin(_enteredPin)) {
           _goToHome();
         } else {
+          if (!mounted) return;
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(content: Text("Incorrect PIN")),
           );
